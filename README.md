@@ -98,8 +98,8 @@ Cette recommandation doit être validée par la DSI et testée pendant un pilote
 
 ## Livrables
 
-- [Consulter le document de cadrage](docs/document-cadrage-greentrack.pdf)
-- [Consulter la présentation de soutenance](docs/presentation-soutenance.pdf)
+- [Consulter le document de cadrage](document-cadrage-greentrack.pdf)
+- [Consulter la présentation de soutenance](presentation-soutenance.pdf)
 
 ## Liens du projet
 
